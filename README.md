@@ -1,7 +1,7 @@
 # ESP32-iUART
 ESP32-iUART (WROOM-32) <br>
-iUART - internet UART
-Wireless UART you can use with web-browser from mobile or PC. 
+iUART - internet UART<br>
+Wireless UART can be used with a web browser on a mobile phone or PC.
 
 <h2>USE:</h2>
 <b>Connect:</b><br>
